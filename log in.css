@@ -1,0 +1,49 @@
+body{
+   background-image : url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Imzr2QkaC5YAdh5rCTi0S-o2Ivh4U1T6gA&usqp=CAU");
+
+   background-size: cover;
+}
+
+
+
+
+.loginarea{
+
+   width: 550px;
+  height: 300px;
+
+  margin-left: 190px;
+  margin-top: 40px;
+
+
+}
+
+
+
+.ff{
+  cursor: pointer;
+  width: 200px;
+  height: 30px;
+  font-family:Navilu;
+  background-color: royalblue;
+  color: white;
+  margin-left: 190px;
+  margin-top: 40px;
+  border: solid 1px white;
+}
+input{
+  width: 200px;
+  height: 30px;
+  margin-left: 190px;
+  margin-top:40px ;
+  border: solid 1px black;
+  box-sizing: border-box;
+
+}
+a{
+  color: white;
+  width: 200px;
+  margin-left: 190px;
+  margin-top: 40px;
+
+}

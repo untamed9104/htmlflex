@@ -1,0 +1,21 @@
+body{
+  background-color: cyan;
+background-image: url(""https://www.ecitizen.go.ke/images/ecitizen-carousel-1.png);
+}
+li a:
+  border-collapse: collapse;
+  text-decoration: none;
+}
+.nb{
+  background-color: dodgerblue;
+}
+.v:hover{
+  background-color: blue;
+}
+.d:hover{
+  background-color: #b3d4fc;
+}
+.k:hover{
+  background-color: mediumslateblue;
+}
+.l

@@ -1,0 +1,10 @@
+body{
+  background-color: cyan;
+}
+.viewing{
+  background-image: url("https://www.ecitizen.go.ke/images/ecitizen-carousel-1.png");
+  margin-top: 45px;padding: 45px;
+}
+.we{
+  margin-top: 45px;padding: 45px;
+}

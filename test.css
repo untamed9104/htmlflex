@@ -1,0 +1,17 @@
+body{
+  background-color: white;
+}
+.flex-t{
+  display: flex;
+  justify-content: left;
+  margin: 10px;
+  padding: 20px;
+  background-color: cyan;
+
+}
+.qw{
+  color: black;
+  background-image: url("");
+
+
+}

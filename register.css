@@ -1,0 +1,38 @@
+body{
+
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Imzr2QkaC5YAdh5rCTi0S-o2Ivh4U1T6gA&usqp=CAU");
+}
+.reg{
+
+  width: 200px;
+  height: 40px;
+  margin-left: 190px;
+  margin-top: 40px;
+
+}
+input{
+  width: 200px;
+  height: 30px;
+  margin-top: 40px;
+  margin-left: 190px;
+
+}
+.ff{
+  width: 200px;
+  height: 40px;
+  margin-left: 190px;
+  margin-top: 40px;
+background-color: black;
+  color: white;
+  cursor: pointer;
+}
+a{
+  color: black;
+  width: 20px;
+  height: 10px;
+  margin-left: 190px;
+margin-top: 60px;
+}
